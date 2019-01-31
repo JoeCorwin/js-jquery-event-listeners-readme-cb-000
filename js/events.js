@@ -3,7 +3,7 @@
 $(document).ready(function(){
 
   $('h1').on("click", function(){
-    alert ()
+    alert ("Hey!");
       //action you want taken
   });
 // call functions here
